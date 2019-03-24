@@ -1,4 +1,4 @@
-The code can be found at 
+The code can be found at https://github.com/sgadgil6/CS4641-Unsupervised-Learning
 
 
 WEKA was used to perform the dimensionality reduction and python's scikit-learn, a machine learning library for Python, was used to run the neural network learner. I used a repository to obtain the code for running the neural network. The GitHub link to the repo is  https://github.com/qliuan/CS4641-Machine-Learning/tree/master/3/qliu359/repo
