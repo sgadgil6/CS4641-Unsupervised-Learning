@@ -1,4 +1,4 @@
-The code can be found at 
+The code can be found at https://github.com/sgadgil6/CS4641-Unsupervised-Learning
 
 
 WEKA was used to perform the dimensionality reduction and python's scikit-learn, a machine learning library for Python, was used to run the neural network learner. I used a repository to obtain the code for running the neural network. The GitHub link to the repo is  https://github.com/qliuan/CS4641-Machine-Learning/tree/master/3/qliu359/repo
@@ -26,6 +26,7 @@ File Structure:
 In the /data directory the datasets obtained by dimensionality reduction are named as breastCancer_algorithm.csv. For example breastCancer_ica.csv referes to the projected data produced by ICA. For the clustered datasets, file names used are breastCancer_algorithm_clu_new.csv
 
 Running the python scripts:
+
 All the code can be run by using the shell scripts provided in the main directory. To run a shell script, open a terminal and type ./<script_name>.sh
 
 run_clu_nn.sh script runs the neural network learner on the dataset with clustering features. run_nn.sh script runs the neural network on the dimensionally reduced dataset. 

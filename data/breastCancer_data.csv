@@ -1,3 +1,4 @@
+mean_radius,mean_texture,mean_perimeter,mean_area,mean_smoothness,diagnosis
 16.35,23.29,109,840.4,0.09742,0
 14.47,24.99,95.81,656.4,0.08837,1
 10.65,25.22,68.01,347,0.09657,1
